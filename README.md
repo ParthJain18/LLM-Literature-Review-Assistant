@@ -1,6 +1,6 @@
 # LLM-Powered Literature Review Assistant
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open Source Helpers](https://www.codetriage.com/parthjain18/llm-literature-review-assistant/badges/users.svg)](https://www.codetriage.com/parthjain18/llm-literature-review-assistant)
 
 This repository contains Python notebooks designed to semi-automate the initial screening phase of a Systematic Literature Review (SLR) or general research paper discovery. By leveraging Large Language Models (LLMs), these tools help researchers quickly identify relevant papers from large datasets, significantly reducing manual effort.
 
