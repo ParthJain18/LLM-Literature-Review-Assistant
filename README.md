@@ -50,7 +50,7 @@ Conducting thorough literature reviews is crucial but time-consuming. These scri
     * `papers.csv`: Contains detailed metadata for all fetched papers.
     * `output.csv`: A merged CSV combining the screening results and paper metadata.
 
-### 2. `notebooks/acm_export_screener.ipynb` (Assuming similar structure)
+### 2. `notebooks/acm_export_screener.ipynb`
 
 1.  **Input Configuration:**
     * `input_bib_path`: Path to your exported BibTeX file from ACM Digital Library (or similar).
